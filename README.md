@@ -26,7 +26,7 @@ Hello! I'm ***Sanggit Saaran K C S***, a passionate AI-ML developer and tech ent
 <br>
 
 ## LeetCode Status 🧑‍💻
-![LeetCode Stats](https://leetcard.jacoblin.cool/sanggitkovai?theme=dark&font=Noto%20Serif%20Tibetan)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sanggitsaaran?theme=dark&font=Noto%20Serif%20Tibetan)
 <br>
 
 <!--
