@@ -146,7 +146,7 @@ Fusing ML with embedded systems to build real-world automation tools
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanggitsaaran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img width="49%" src="https://streak-stats.demolab.com?user=sanggitsaaran&theme=tokyonight&hide_border=true&background=0D1117" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sanggitsaaran&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
 
 <br/>
 
